@@ -5,7 +5,7 @@ Author: Abdourahmane Tintou KAMARA
 Rice Varieties Classification
 =============================
 
-This project aims at building a classifier for 5 varieties grown in Turkey and proposed by the Ankara Universy(dept of Agriculture)
+This project aims at building a classifier for 5 varieties of rice grown in Turkey and proposed by the Ankara Universy(dept of Agriculture)
 
 *   Arborio
 *   Basmati
