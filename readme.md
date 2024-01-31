@@ -14,7 +14,7 @@ This project aims at building a classifier for 5 varieties of rice grown in Turk
 *   Jasmine
 *   Karacadag
 
-The presentation is available online at this [presentation link](https://atkamara.github.io/rice_presentation)
+The full presentation of the project is available online at [this link](https://atkamara.github.io/rice_presentation)
 
 <a href="https://ibb.co/4Yxhkxf"><img src="https://i.ibb.co/vQ8098B/t-l-chargement.png" alt="t-l-chargement" border="0"></a>
 
